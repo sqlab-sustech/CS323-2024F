@@ -1,1 +1,1 @@
-# CS323-2024F
+# SUSTech CS323-2024F Course Website
